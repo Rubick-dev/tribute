@@ -1,0 +1,11 @@
+body {
+  padding-top: 50px;
+}
+
+.text-size-lg {
+  font-size: 1.5rem;
+}
+
+.text-size-sm {
+  font-size: .9rem;
+}
